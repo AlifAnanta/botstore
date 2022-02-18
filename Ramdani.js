@@ -68,10 +68,10 @@ namaowner = setting.OwnerName
 nomorowner = setting.OwnerNumber
 website = "https://www.facebook.com/profile.php?id=100008733852946"
 wa = "wa.me/6285890617231"
-ig = "Alif store"
-tt = "alifananta5"
-yt = "Alif Ananta"
-github = "AlifAnanta"
+tt = "https://www.tiktok.com/@alifananta368"
+ig = "https://www.instagram.com/alifananta5/"
+yt = "https://www.youtube.com/channel/UCt8L2Ar8t4UmETR-rjWIE2A"
+github = "https://github.com/AlifAnanta"
 heroku = "AlifAnanta"
 
 //━━━━━━━━━━━━━━━[ Sticker WM ]━━━━━━━━━━━━━━━\\
