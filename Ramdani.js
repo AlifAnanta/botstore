@@ -311,7 +311,7 @@ const ftrolMENU = {key : {fromMe:false,
                             itemCount : 999999999,
                             status: 1,
                             surface : 1,
-                            message: `By Ramdani Ofc`, 
+                            message: `By Alif Ananta`, 
                             orderTitle: `${namaowner}`,
                             thumbnail: thumb, 
                             sellerJid: '0@s.whatsapp.net',
@@ -556,7 +556,7 @@ const froxx = {
 		"extendedTextMessage": {
                  "text": `New Base By Alif Ananta`,
                  "title": `New Base By Alif Ananta`,
-                 'jpegThumbnail': fs.readFileSync("./lib/Ramdani.jpg"),
+                 'jpegThumbnail': fs.readFileSync("./lib/Ramdani2.jpg"),
                         }
 	                  } 
                      }
@@ -583,10 +583,10 @@ Ramdani.sendMessage(from, teks, text, {quoted: froxx})
 //━━━━━━━━━━━━━━━[ SETTING ]━━━━━━━━━━━━━━━\\
 
 switch(command) {
-case 'help':
 case 'menu':
-case 'h':
+case 'help':
 case 'm':
+case 'h':
 case 'z':
 if (isBanned) return reply(mess.banned)
 anu =`┏━━>[ Info Botz ]
@@ -1209,8 +1209,8 @@ case 'sc':
 case 'scrip':
 if (isBanned) return reply(mess.banned)
 reply2(`┏━━> [Script Bot]
-┣ • SC ORI : Ramdani Ofc
-┣ • RECODE : Ramdani Ofc
+┣ • SC ORI : Alif Ananta
+┣ • RECODE : Alif Ananta
 ┗━━━━━━━━━━━>`)
 break
 //══════════[ ASUPAN MENU ]════════════════════════════//
